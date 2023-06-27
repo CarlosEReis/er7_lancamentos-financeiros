@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CarlosEReis/ER7Money-UI.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CarlosEReis/ER7Money-API.git
